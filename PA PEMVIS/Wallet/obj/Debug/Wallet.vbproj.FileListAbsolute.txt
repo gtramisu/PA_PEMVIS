@@ -1,0 +1,17 @@
+C:\Users\naaga\OneDrive\Documents\PA PEMVIS\Wallet\obj\Debug\Wallet.vbproj.AssemblyReference.cache
+C:\Users\naaga\OneDrive\Documents\PA PEMVIS\Wallet\obj\Debug\Wallet.FormLogin.resources
+C:\Users\naaga\OneDrive\Documents\PA PEMVIS\Wallet\obj\Debug\Wallet.Resources.resources
+C:\Users\naaga\OneDrive\Documents\PA PEMVIS\Wallet\obj\Debug\Wallet.vbproj.GenerateResource.cache
+C:\Users\naaga\OneDrive\Documents\PA PEMVIS\Wallet\obj\Debug\Wallet.vbproj.CoreCompileInputs.cache
+C:\Users\naaga\OneDrive\Documents\PA PEMVIS\Wallet\bin\Debug\Wallet.exe.config
+C:\Users\naaga\OneDrive\Documents\PA PEMVIS\Wallet\bin\Debug\Wallet.exe
+C:\Users\naaga\OneDrive\Documents\PA PEMVIS\Wallet\bin\Debug\Wallet.pdb
+C:\Users\naaga\OneDrive\Documents\PA PEMVIS\Wallet\bin\Debug\Wallet.xml
+C:\Users\naaga\OneDrive\Documents\PA PEMVIS\Wallet\obj\Debug\Wallet.exe
+C:\Users\naaga\OneDrive\Documents\PA PEMVIS\Wallet\obj\Debug\Wallet.xml
+C:\Users\naaga\OneDrive\Documents\PA PEMVIS\Wallet\obj\Debug\Wallet.pdb
+C:\Users\naaga\OneDrive\Documents\PA PEMVIS\Wallet\obj\Debug\Wallet.FormRegister.resources
+C:\Users\naaga\OneDrive\Documents\PA PEMVIS\Wallet\obj\Debug\Wallet.FormTopUp.resources
+C:\Users\naaga\OneDrive\Documents\PA PEMVIS\Wallet\obj\Debug\Wallet.FormTransfer.resources
+C:\Users\naaga\OneDrive\Documents\PA PEMVIS\Wallet\obj\Debug\Wallet.FormDashboard.resources
+C:\Users\naaga\OneDrive\Documents\PA PEMVIS\Wallet\obj\Debug\Wallet.FormStruk.resources
